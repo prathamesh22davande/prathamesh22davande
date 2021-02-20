@@ -3,4 +3,5 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prathamesh22davande&repo=crud-operations-node-express&theme=dark&show_icons=true)](https://github.com/prathamesh22davande/crud-operations-node-express)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prathamesh22davande&repo=covid-tracker&theme=dark&show_icons=true)](https://github.com/prathamesh22davande/covid-tracker)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prathamesh22davande&repo=todoapp&theme=dark&show_icons=true)](https://github.com/prathamesh22davande/todoapp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prathamesh22davande&repo=flutter-bloc-app&theme=dark&show_icons=true)](https://github.com/prathamesh22davande/flutter-bloc-app)
 
